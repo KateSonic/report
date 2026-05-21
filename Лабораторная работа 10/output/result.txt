@@ -1,0 +1,18 @@
+Expected number:   +79852018533
+Recognized number: +73802008033
+Errors: 4
+Reliability: 0.247
+
+Segments:
+01: + 0.660-1.380 s, confidence=0.088
+02: 7 1.920-2.610 s, confidence=0.262
+03: 3 3.190-3.940 s, confidence=0.037
+04: 8 4.430-5.270 s, confidence=0.272
+05: 0 6.030-6.430 s, confidence=0.126
+06: 2 7.320-7.910 s, confidence=0.233
+07: 0 8.470-9.050 s, confidence=0.409
+08: 0 9.600-10.310 s, confidence=0.090
+09: 8 10.780-11.620 s, confidence=0.296
+10: 0 12.180-12.600 s, confidence=0.054
+11: 3 13.320-13.850 s, confidence=0.574
+12: 3 14.570-14.890 s, confidence=0.524
